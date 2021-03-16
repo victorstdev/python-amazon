@@ -1,2 +1,2 @@
-# python-statistics
-Testes de estatísticas usando ferramentas em python para web scraping e data tables
+# python-amazon
+Testes com Beautiful Soup e Pandas pra gerar um robô de pesquisas de preços na Amazon
